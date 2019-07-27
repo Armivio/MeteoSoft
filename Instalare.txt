@@ -1,0 +1,1 @@
+Pentru instalarea programului pe statie, se foloseste "Win32DiskImager", care este open-source si imaginea creata de noi, "WeatherStationV1.0".
